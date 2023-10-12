@@ -1,0 +1,1 @@
+To initialize the app, open the .mlapp file and double click on the gui_fixed.mlapp file, then the App Designer Start Page will prompt, then click the 'Code View' on the slider. This project was made for digital signal and system processing
